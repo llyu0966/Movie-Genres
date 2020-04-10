@@ -1,0 +1,48 @@
+run:
+Drama 4361
+Comedy 3756
+Thriller 1894
+Action 1828
+Romance 1596
+Adventure 1263
+Crime 1199
+Sci-Fi 980
+Horror 978
+Fantasy 779
+Children 664
+Animation 611
+Mystery 573
+Documentary 440
+War 382
+Musical 334
+Western 167
+IMAX 158
+Film-Noir 87
+(no genres listed) 34
+
+The average number of movies per genre is: 1104
+
+The number of movies more than average:
+Action 1828
+Adventure 1263
+Drama 4361
+Thriller 1894
+Crime 1199
+Romance 1596
+Comedy 3756
+
+The number of movies less than average:
+Film-Noir 87
+Horror 978
+War 382
+Western 167
+Documentary 440
+Sci-Fi 980
+(no genres listed) 34
+Fantasy 779
+Animation 611
+IMAX 158
+Mystery 573
+Children 664
+Musical 334
+BUILD SUCCESSFUL (total time: 0 seconds)
