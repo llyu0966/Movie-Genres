@@ -1,0 +1,109 @@
+run:
+1902, {Action=1, Sci-Fi=1, Adventure=1, Fantasy=1}
+1903, {Western=1, Crime=1}
+1908, {Sci-Fi=1, Animation=1, Comedy=1}
+1915, {Drama=1, War=1}
+1916, {Action=1, Sci-Fi=1, Adventure=1, Drama=1, Fantasy=1, Romance=1, Comedy=1}
+1917, {Comedy=1}
+1919, {Drama=1, Comedy=1}
+1920, {Horror=1, Crime=1, Fantasy=1, Comedy=1}
+1921, {Drama=1, Comedy=1}
+1922, {Horror=1}
+1923, {Action=1, Drama=2, Horror=1, Romance=1, Comedy=2}
+1924, {Action=2, Sci-Fi=1, Adventure=2, Drama=2, Thriller=1, Fantasy=3, Romance=2, Comedy=2}
+1925, {Adventure=2, Drama=2, Romance=2, War=1, Comedy=2}
+1926, {Adventure=1, Drama=3, Horror=1, Fantasy=1, War=1, Romance=1, Comedy=2}
+1927, {Sci-Fi=1, Drama=5, Horror=1, Thriller=1, Crime=1, Romance=2, Comedy=1, Mystery=1, Musical=1}
+1928, {Drama=1, Animation=1, Romance=1, Comedy=3, Children=1, Musical=1}
+1929, {Documentary=1, Fantasy=1, Comedy=1, Musical=2}
+1930, {Action=1, Drama=4, War=1, Romance=1, Comedy=1, Musical=1}
+1931, {Western=1, Film-Noir=1, Sci-Fi=1, Action=1, Drama=9, Horror=3, Thriller=1, Crime=3, Romance=3, Comedy=4, Mystery=1, Musical=1}
+1932, {Film-Noir=1, Drama=4, Horror=2, Crime=3, Romance=4, War=1, Comedy=3}
+1933, {Action=1, Adventure=2, Horror=3, War=1, Romance=4, Sci-Fi=1, Drama=4, Thriller=1, Crime=1, Fantasy=2, Comedy=5, Mystery=1, Children=1, Musical=4}
+1934, {Documentary=2, Drama=4, Thriller=1, Crime=1, Fantasy=1, Romance=3, War=1, Comedy=6, Children=1, Musical=2}
+1935, {Sci-Fi=1, Action=1, Adventure=2, Drama=6, Horror=1, Thriller=1, Fantasy=1, Romance=6, Comedy=7, Mystery=1, Musical=4}
+1936, {Western=1, Film-Noir=1, Adventure=2, Drama=7, Thriller=3, Crime=2, Romance=10, Comedy=7, Mystery=1, Musical=4}
+1937, {Film-Noir=1, Action=1, Adventure=2, Romance=4, War=1, Drama=12, Thriller=1, Crime=2, Fantasy=1, Animation=1, Comedy=3, Children=2, Musical=3}
+1938, {Film-Noir=1, Action=2, Adventure=1, Romance=4, War=1, Drama=9, Thriller=2, Crime=1, Fantasy=2, Animation=2, Comedy=8, Mystery=1, Children=2, Musical=1}
+1939, {Action=1, Adventure=4, Romance=9, War=2, Western=2, Drama=15, Thriller=1, Crime=2, Fantasy=1, Animation=2, Comedy=9, Mystery=1, Children=4, Musical=2}
+1940, {Film-Noir=2, Action=2, Adventure=3, Horror=1, Romance=9, War=1, Western=2, Sci-Fi=2, Drama=14, Thriller=3, Fantasy=3, Animation=2, Comedy=11, Mystery=2, Children=2, Musical=3}
+1941, {Film-Noir=3, Adventure=1, Horror=2, Romance=6, War=1, Drama=9, Thriller=2, Crime=2, Fantasy=2, Animation=1, Mystery=4, Comedy=8, Children=1, Musical=2}
+1942, {Film-Noir=2, Action=1, Horror=1, Romance=10, War=3, Drama=13, Thriller=5, Crime=3, Animation=1, Comedy=9, Mystery=2, Children=1, Musical=2}
+1943, {Western=1, Adventure=1, Drama=8, Horror=2, Thriller=2, Crime=2, Fantasy=1, Romance=1, War=1}
+1944, {Film-Noir=2, Action=1, Adventure=2, Drama=11, Thriller=3, Crime=2, War=4, Romance=5, Mystery=2, Comedy=4, Children=1, Musical=2}
+1945, {Film-Noir=2, Horror=4, Romance=2, War=3, Drama=7, Thriller=3, Crime=3, Fantasy=1, Animation=1, Mystery=6, Comedy=2, Children=1, Musical=2}
+1946, {Film-Noir=8, Adventure=1, Romance=5, War=2, Western=2, Drama=14, Thriller=5, Crime=5, Fantasy=2, Animation=1, Mystery=4, Comedy=1, Children=3, Musical=4}
+1947, {Film-Noir=6, Drama=12, Thriller=2, Crime=6, Fantasy=1, Romance=6, Comedy=9, Mystery=2, Musical=1}
+1948, {Film-Noir=3, Action=3, Adventure=4, Horror=1, Romance=3, War=1, Western=2, Drama=15, Thriller=4, Crime=4, Fantasy=1, Comedy=3, Mystery=1, Children=1, Musical=2}
+1949, {Film-Noir=4, Action=1, Adventure=1, Horror=1, Romance=7, War=2, Western=2, Documentary=1, Drama=15, Thriller=3, Crime=2, Animation=2, Mystery=2, Comedy=8, Children=2, Musical=3}
+1950, {Film-Noir=4, Action=1, Adventure=2, Romance=9, War=1, Western=4, Drama=10, Thriller=1, Crime=3, Fantasy=2, Animation=1, Comedy=6, Mystery=4, Children=2, Musical=2}
+1951, {Film-Noir=1, Action=1, Adventure=3, Horror=1, Romance=7, War=3, Sci-Fi=4, Drama=12, Thriller=2, Crime=2, Fantasy=2, Animation=1, Comedy=5, Children=1, Musical=5}
+1952, {Western=1, Sci-Fi=1, Adventure=2, Drama=9, Romance=6, War=1, Comedy=7, Musical=1}
+1953, {Film-Noir=1, Action=3, Adventure=3, Horror=1, Romance=7, War=2, Western=2, Sci-Fi=2, Drama=17, Thriller=5, Crime=2, Fantasy=2, Animation=2, Comedy=9, Mystery=1, Children=3, Musical=6}
+1954, {Film-Noir=1, Action=1, Adventure=3, Horror=3, Romance=4, War=1, Western=1, Sci-Fi=4, Drama=15, Thriller=4, Crime=4, Fantasy=1, Animation=1, Mystery=2, Comedy=3, Musical=4}
+1955, {Film-Noir=4, Action=1, Adventure=1, Horror=2, Romance=8, War=4, Western=3, Documentary=1, Sci-Fi=2, Drama=21, Thriller=6, Crime=8, Animation=1, Mystery=4, Comedy=8, Children=1, Musical=2}
+1956, {Film-Noir=4, Adventure=5, Horror=4, Romance=4, War=1, Western=4, Sci-Fi=6, Drama=18, Thriller=4, Crime=2, Fantasy=1, Comedy=4, Mystery=1, Children=1, Musical=4}
+1957, {Film-Noir=1, Action=2, Adventure=2, Horror=3, Romance=6, War=4, Western=1, Sci-Fi=5, Drama=18, Thriller=4, (no genres listed)=1, Comedy=8, Mystery=1, Children=1, Musical=3}
+1958, {Film-Noir=1, Action=3, Adventure=4, Horror=4, Romance=7, War=3, Western=1, Sci-Fi=4, Drama=11, Thriller=4, Crime=5, Fantasy=2, Mystery=2, Comedy=10, Musical=3}
+1959, {Action=3, Adventure=5, Horror=7, Romance=6, War=8, Western=2, Sci-Fi=7, Drama=15, Thriller=2, Crime=3, Fantasy=1, Animation=1, Mystery=2, Comedy=7, Children=4, Musical=2}
+1960, {Film-Noir=1, Action=4, Adventure=3, Horror=8, Romance=6, War=4, Western=3, Sci-Fi=4, Drama=19, Thriller=3, Crime=7, Fantasy=1, Comedy=7, Mystery=2, Children=4, Musical=2}
+1961, {Action=3, Adventure=6, Horror=3, Romance=10, War=3, Western=2, Sci-Fi=3, Drama=18, Thriller=1, Crime=1, Fantasy=3, Animation=1, Comedy=12, Children=4, Musical=3}
+1962, {Action=4, Adventure=7, Horror=4, War=4, Romance=7, Western=3, Documentary=1, Sci-Fi=3, Drama=24, Thriller=5, Crime=4, Fantasy=3, Comedy=7, Mystery=1, Children=2, Musical=3}
+1963, {Film-Noir=1, Action=5, Adventure=9, Horror=6, Romance=3, War=4, Western=1, Sci-Fi=4, Drama=15, Thriller=7, Crime=6, Fantasy=3, Animation=1, Comedy=15, Mystery=2, Children=3, Musical=1}
+1964, {Action=6, Adventure=6, Horror=5, Romance=7, War=7, Western=2, Documentary=1, Sci-Fi=3, Drama=17, Thriller=7, Crime=2, Fantasy=5, Animation=3, Comedy=17, Mystery=3, Children=2, Musical=6}
+1965, {Action=9, Adventure=9, Horror=3, Romance=9, War=4, Western=4, Sci-Fi=4, Drama=24, Thriller=9, Crime=4, Fantasy=2, Animation=3, Mystery=4, Comedy=17, Children=4, Musical=4}
+1966, {Action=4, Adventure=5, Horror=1, Romance=7, War=6, Western=3, Documentary=1, Sci-Fi=3, Drama=18, Thriller=3, Crime=6, Fantasy=1, Animation=3, Mystery=2, Comedy=19, Children=3, Musical=3}
+1967, {Action=8, Adventure=5, Horror=4, Romance=3, War=1, Western=1, Documentary=2, Sci-Fi=3, Drama=23, Thriller=5, Crime=6, Fantasy=1, Animation=1, Comedy=14, Mystery=3, Children=4, Musical=5}
+1968, {Action=7, Adventure=9, Horror=5, Romance=4, War=3, Western=3, Documentary=3, Sci-Fi=7, Drama=17, Thriller=5, (no genres listed)=1, Crime=4, Fantasy=2, Animation=7, Comedy=13, Mystery=2, Children=8, Musical=8}
+1969, {Action=6, Adventure=6, Horror=1, War=4, Romance=4, Western=6, Sci-Fi=1, Drama=17, Thriller=4, Crime=3, Fantasy=4, Animation=5, Comedy=11, Mystery=1, Children=6, Musical=4}
+1970, {Action=5, Adventure=3, Horror=2, War=7, Romance=4, Western=3, Sci-Fi=1, Drama=18, Thriller=5, Crime=4, Fantasy=3, Animation=3, Comedy=10, Mystery=2, Children=4, Musical=1}
+1971, {Action=17, Adventure=6, Horror=1, War=2, Romance=3, Western=3, Documentary=1, Sci-Fi=5, Drama=20, Thriller=13, Crime=8, Fantasy=1, Animation=2, Comedy=12, Mystery=6, Children=3, Musical=3}
+1972, {Action=6, Adventure=5, Horror=4, Romance=4, War=1, Western=2, Sci-Fi=6, Drama=22, Thriller=7, Crime=5, Fantasy=1, Animation=1, Comedy=15, Mystery=3, Children=1, Musical=2}
+1973, {Film-Noir=1, Action=12, Adventure=6, Horror=10, Romance=3, War=1, Western=3, Sci-Fi=9, Drama=29, Thriller=14, Crime=17, Fantasy=2, Animation=5, Comedy=13, Mystery=3, Children=3, Musical=2}
+1974, {Film-Noir=1, Action=11, Adventure=5, Horror=6, Romance=6, Western=1, Documentary=2, Sci-Fi=2, Drama=20, Thriller=12, Crime=10, Fantasy=3, Animation=1, Comedy=13, Mystery=4, Children=3, Musical=1}
+1975, {Action=7, Adventure=7, Horror=5, Romance=7, War=1, Western=1, Documentary=1, Sci-Fi=7, Drama=19, Thriller=5, Crime=5, Fantasy=2, Animation=1, Comedy=12, Mystery=4, Children=2, Musical=3}
+1976, {Action=7, Adventure=8, Horror=5, Romance=4, War=3, Western=2, Documentary=1, Sci-Fi=4, Drama=21, Thriller=15, Crime=8, Fantasy=3, Animation=1, Mystery=6, Comedy=16, Children=3, Musical=1}
+1977, {Action=9, Adventure=12, Horror=8, Romance=6, War=6, Western=1, Documentary=2, Sci-Fi=4, Drama=27, Thriller=7, (no genres listed)=1, Crime=4, Fantasy=9, Animation=6, Comedy=21, Mystery=3, Children=8, Musical=4}
+1978, {Action=15, Adventure=8, Horror=12, War=4, Romance=2, Western=1, Documentary=4, Sci-Fi=8, Drama=17, Thriller=7, Crime=4, Fantasy=5, Animation=3, Comedy=19, Mystery=4, Children=6, Musical=2}
+1979, {Action=13, Adventure=10, Horror=10, War=3, Romance=5, Western=2, Sci-Fi=12, Drama=32, Thriller=10, Crime=5, Fantasy=2, Animation=3, Comedy=24, Mystery=3, Children=5, Musical=4}
+1980, {Action=18, Adventure=12, Horror=18, Romance=10, War=3, Western=1, Documentary=1, Sci-Fi=14, Drama=32, Thriller=10, (no genres listed)=1, Crime=5, Fantasy=2, Animation=1, Mystery=6, Comedy=29, Children=2, Musical=4}
+1981, {Action=20, Adventure=15, Horror=16, War=5, Romance=9, Documentary=2, Sci-Fi=12, Drama=31, Thriller=19, Crime=7, Fantasy=8, Animation=5, Mystery=7, Comedy=32, Children=3, Musical=3}
+1982, {Action=14, Adventure=10, Horror=15, Romance=12, War=3, Western=1, Documentary=5, Sci-Fi=11, Drama=29, Thriller=13, Crime=5, Fantasy=7, Animation=6, Comedy=32, Mystery=6, Children=6, Musical=8}
+1983, {Action=15, Adventure=9, Horror=13, Romance=7, War=2, Western=1, Documentary=5, Sci-Fi=10, Drama=29, Thriller=13, Crime=8, Fantasy=7, Animation=5, Comedy=31, Mystery=4, Children=5, Musical=3}
+1984, {Film-Noir=1, Action=17, Adventure=18, Horror=12, War=5, Romance=12, Documentary=2, Sci-Fi=18, Drama=35, Thriller=13, Crime=7, Fantasy=11, Animation=4, Comedy=40, Mystery=2, Children=5, Musical=7}
+1985, {Action=23, Adventure=31, Horror=16, War=5, Romance=22, Western=2, Documentary=4, Sci-Fi=18, Drama=45, Thriller=18, Crime=11, Fantasy=16, Animation=4, Comedy=54, Mystery=7, Children=11, Musical=1}
+1986, {Film-Noir=1, Action=27, Adventure=24, Horror=23, War=4, Romance=15, Western=1, Sci-Fi=19, Drama=55, Thriller=21, Crime=19, Fantasy=10, Animation=9, Mystery=7, Comedy=54, Children=10, Musical=4}
+1987, {Film-Noir=2, Action=31, Adventure=17, Horror=28, Romance=28, War=8, Western=3, Documentary=1, Sci-Fi=20, Drama=56, Thriller=24, Crime=21, Fantasy=16, Animation=9, Comedy=77, Mystery=7, Children=8, Musical=2}
+1988, {Film-Noir=1, Action=29, Adventure=18, Horror=24, Romance=23, War=7, Western=2, Documentary=4, Sci-Fi=17, Drama=67, Thriller=29, Crime=19, Fantasy=16, Animation=11, Comedy=72, Mystery=10, Children=10, Musical=6}
+1989, {Film-Noir=1, Action=33, Adventure=16, Horror=11, Romance=16, War=5, Western=1, Documentary=2, Sci-Fi=17, Drama=60, Thriller=20, Crime=22, Fantasy=13, Animation=9, Comedy=71, Mystery=6, Children=9, Musical=3}
+1990, {Film-Noir=2, Action=35, Adventure=20, Horror=23, Romance=26, War=8, Western=4, Documentary=2, Sci-Fi=17, Drama=62, Thriller=32, (no genres listed)=1, Crime=24, Fantasy=15, Animation=6, Comedy=59, Mystery=6, Children=8, Musical=3}
+1991, {Action=26, Adventure=18, Horror=9, Romance=31, War=1, Western=2, Documentary=4, Sci-Fi=13, Drama=63, Thriller=22, Crime=17, Fantasy=14, Animation=6, IMAX=1, Comedy=69, Mystery=10, Children=7, Musical=7}
+1992, {Film-Noir=2, Action=31, Adventure=12, Horror=13, Romance=36, War=4, Western=3, Documentary=6, Sci-Fi=10, Drama=78, Thriller=32, (no genres listed)=1, Crime=23, Fantasy=9, Animation=8, IMAX=1, Comedy=69, Mystery=5, Children=13, Musical=5}
+1993, {Film-Noir=1, Action=43, Adventure=19, Horror=12, Romance=33, War=5, Western=3, Documentary=3, Sci-Fi=14, Drama=99, Thriller=32, Crime=20, Fantasy=15, Animation=9, Comedy=77, Mystery=12, Children=17, Musical=4}
+1994, {Film-Noir=1, Action=40, Adventure=30, Horror=15, Romance=41, War=6, Western=7, Documentary=7, Sci-Fi=11, Drama=114, Thriller=35, Crime=27, Fantasy=16, Animation=12, IMAX=2, Comedy=111, Mystery=8, Children=24, Musical=3}
+1995, {Film-Noir=1, Action=44, Adventure=29, Horror=19, Romance=49, War=14, Western=6, Documentary=6, Sci-Fi=19, Drama=123, Thriller=42, (no genres listed)=2, Crime=33, Fantasy=16, Animation=12, IMAX=1, Comedy=90, Mystery=18, Children=29, Musical=4}
+1996, {Film-Noir=1, Action=41, Adventure=35, Horror=15, Romance=53, War=3, Western=1, Documentary=12, Sci-Fi=21, Drama=128, Thriller=61, (no genres listed)=1, Crime=32, Fantasy=13, Animation=9, Comedy=108, Mystery=10, Children=23, Musical=9}
+1997, {Film-Noir=4, Action=51, Adventure=26, Horror=18, Romance=51, War=7, Documentary=8, Sci-Fi=22, Drama=125, Thriller=64, Crime=33, Fantasy=15, Animation=11, IMAX=1, Comedy=94, Mystery=21, Children=25, Musical=6}
+1998, {Film-Noir=1, Action=47, Adventure=30, Horror=14, Romance=56, War=8, Western=2, Documentary=12, Sci-Fi=28, Drama=122, Thriller=52, Crime=36, Fantasy=19, IMAX=3, Animation=17, Comedy=99, Mystery=11, Children=23, Musical=8}
+1999, {Action=34, Adventure=19, Horror=21, War=4, Romance=46, Western=2, Documentary=13, Sci-Fi=17, Drama=124, Thriller=48, Crime=18, Fantasy=17, Animation=8, IMAX=1, Comedy=112, Mystery=14, Children=13, Musical=4}
+2000, {Action=39, Adventure=23, Horror=23, Romance=57, War=7, Western=3, Documentary=14, Sci-Fi=19, Drama=138, Thriller=59, Crime=39, Fantasy=18, Animation=18, IMAX=1, Comedy=117, Mystery=8, Children=17, Musical=4}
+2001, {Film-Noir=1, Action=48, Adventure=26, Horror=19, Romance=66, War=13, Western=3, Documentary=12, Sci-Fi=17, Drama=148, Thriller=53, Crime=36, Fantasy=20, Animation=17, Comedy=127, Mystery=19, Children=12, Musical=7}
+2002, {Action=45, Adventure=37, Horror=27, Romance=58, War=8, Western=2, Documentary=28, Sci-Fi=27, Drama=150, Thriller=72, Crime=49, Fantasy=20, Animation=13, IMAX=2, Comedy=116, Mystery=21, Children=19, Musical=11}
+2003, {Action=66, Adventure=32, Horror=25, Romance=51, War=11, Western=2, Documentary=22, Sci-Fi=23, Drama=129, Thriller=60, Crime=48, Fantasy=18, Animation=20, IMAX=3, Comedy=109, Mystery=21, Children=23, Musical=7}
+2004, {Action=63, Adventure=44, Horror=28, Romance=52, War=13, Western=3, Documentary=25, Sci-Fi=31, Drama=128, Thriller=57, Crime=36, Fantasy=29, Animation=18, IMAX=3, Comedy=111, Mystery=19, Children=19, Musical=8}
+2005, {Film-Noir=3, Action=59, Adventure=43, Horror=36, Romance=50, War=12, Western=2, Documentary=24, Sci-Fi=19, Drama=140, Thriller=68, Crime=42, Fantasy=22, IMAX=4, Animation=15, Mystery=17, Comedy=120, Children=25, Musical=8}
+2006, {Film-Noir=1, Action=49, Adventure=38, Horror=33, Romance=54, War=10, Western=1, Documentary=23, Sci-Fi=25, Drama=146, Thriller=76, Crime=35, Fantasy=38, Animation=26, IMAX=7, Mystery=25, Comedy=118, Children=22, Musical=6}
+2006–2007, {(no genres listed)=1}
+2007, {Action=46, Adventure=33, Horror=43, Romance=47, War=12, Western=3, Documentary=18, Sci-Fi=29, Drama=141, Thriller=77, Crime=40, Fantasy=24, Animation=21, IMAX=6, Comedy=102, Mystery=14, Children=14, Musical=9}
+2008, {Action=72, Adventure=49, Horror=23, Romance=47, War=16, Western=5, Documentary=20, Sci-Fi=31, Drama=113, Thriller=60, Crime=40, Fantasy=30, IMAX=8, Animation=22, Comedy=104, Mystery=15, Children=22, Musical=9}
+2009, {Film-Noir=1, Action=59, Adventure=37, Horror=41, Romance=41, War=7, Western=2, Documentary=12, Sci-Fi=44, Drama=131, Thriller=72, Crime=39, Fantasy=32, IMAX=10, Animation=32, Mystery=24, Comedy=111, Children=17, Musical=7}
+2010, {Film-Noir=1, Action=65, Adventure=30, Horror=24, Romance=41, War=7, Western=5, Documentary=17, Sci-Fi=19, Drama=102, Thriller=56, Crime=23, Fantasy=29, IMAX=15, Animation=18, Comedy=97, Mystery=16, Children=17, Musical=6}
+2011, {Film-Noir=2, Action=55, Adventure=40, Horror=19, Romance=37, War=6, Western=2, Documentary=22, Sci-Fi=32, Drama=108, Thriller=63, Crime=25, Fantasy=19, IMAX=20, Animation=26, Comedy=101, Mystery=16, Children=19, Musical=3}
+2012, {Film-Noir=1, Action=55, Adventure=31, Horror=27, War=5, Romance=31, Western=1, Documentary=11, Sci-Fi=28, Drama=92, Thriller=54, Crime=32, Fantasy=22, IMAX=25, Animation=24, Comedy=103, Mystery=9, Children=10, Musical=7}
+2013, {Action=61, Adventure=39, Horror=22, Romance=27, War=6, Western=1, Documentary=8, Sci-Fi=32, Drama=98, Thriller=50, (no genres listed)=2, Crime=35, Fantasy=28, Animation=26, IMAX=29, Comedy=89, Mystery=14, Children=8, Musical=1}
+2014, {Action=61, Adventure=35, Horror=27, Romance=35, War=8, Western=3, Documentary=17, Sci-Fi=32, Drama=117, Thriller=60, Crime=38, Fantasy=15, IMAX=14, Animation=15, Comedy=115, Mystery=16, Children=15, Musical=5}
+2015, {Action=63, Adventure=45, Horror=36, Romance=21, War=2, Western=4, Documentary=19, Sci-Fi=41, Drama=101, Thriller=57, (no genres listed)=3, Crime=30, Fantasy=21, IMAX=1, Animation=19, Mystery=16, Comedy=104, Children=14, Musical=1}
+2016, {Action=48, Adventure=36, Horror=16, Romance=18, War=3, Western=1, Documentary=13, Sci-Fi=29, Drama=69, Thriller=41, (no genres listed)=7, Crime=15, Fantasy=22, Animation=22, Comedy=75, Mystery=8, Children=13}
+2017, {Action=38, Adventure=24, Horror=13, Romance=6, War=3, Western=2, Documentary=10, Sci-Fi=18, Drama=45, Thriller=22, (no genres listed)=4, Crime=13, Fantasy=14, Animation=18, Comedy=56, Mystery=6, Children=9}
+2018, {Action=16, Adventure=12, Horror=4, Romance=1, Documentary=2, Sci-Fi=13, Drama=9, Thriller=13, Crime=6, Fantasy=7, Animation=3, Mystery=5, Comedy=17, Children=3}
+BUILD SUCCESSFUL (total time: 0 seconds)
